@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+/* font-family: 'Lexend Deca', sans-serif; 
+    font-family: 'Inter', sans-serif; */
+
 *::after, 
 *::before {
     box-sizing: border-box;
@@ -13,7 +18,6 @@ body {
     height: 100vh;
     font-family: 'Inter', sans-serif;
     color: hsl(0, 0%, 100%);
-
 }
 
 .container {
@@ -21,12 +25,11 @@ body {
     width: 1110px;
     height: 446px;
     display: flex;
-    align-items: center;
+    
     border-radius: 8px;
 }
 
 .content {
     display: flex;
     flex-direction: column;
-
 }
