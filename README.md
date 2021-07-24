@@ -29,6 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-2nnD5ehLB)
+- Live Demo: [GitHub Pages](https://brendanmadden.github.io/stats-preview-card-component/)
 
 ## My process
 
