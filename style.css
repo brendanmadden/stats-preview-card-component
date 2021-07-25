@@ -132,7 +132,7 @@ span {
 
 @media (max-width: 786px) {
   .container {
-    height: auto;
+    height: 1200px;
   }
   .card {
     flex-direction: column-reverse;
@@ -143,6 +143,7 @@ span {
     position: relative;
     height: 50%;
     border-radius: 10px 10px 0 0;
+    width: 100%;
   }
 
   .mask {
@@ -161,6 +162,7 @@ span {
     text-align: center;
     align-items: center;
     justify-content: center;
+    width: 100%;
   }
 
   .left-content h1 {
